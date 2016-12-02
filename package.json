@@ -1,0 +1,19 @@
+{
+  "name": "master-server",
+  "version": "0.2.0",
+  "description": "use Server to create a master server, use Connector to connect to the master server",
+  "main": "index.js",
+  "dependencies": {
+    "json-stream": "^1.0.0"
+  },
+  "keywords": [
+    "master",
+    "server",
+    "game",
+    "server",
+    "server",
+    "listing"
+  ],
+  "author": "Alex Bennett // timetocode",
+  "license": "MIT"
+}
